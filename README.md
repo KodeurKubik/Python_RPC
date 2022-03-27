@@ -12,3 +12,17 @@ This project allows you to create a rich presence app on discord ! (You need to 
 - Now, go on the "Rich Presence" tab and add the Image that will be the "big image" of the Rich Presence box and the "small image"
 
 <!> Don't forget to give a name to the both images and paste the name in the code (the small_img = ... and the big_img = ...) </>
+
+# Install the needed modules
+
+```
+pip3.10 install pypresence
+```
+
+To launch the script :
+
+```
+python3.10 main.py
+```
+
+Works better with python 3.10 but I think you can use it with another version
